@@ -1,1 +1,5 @@
 # UAS
+NAMA = TEGAR TAQIF YASSAR 
+NIM  = 21.01.55.0014
+
+'''
